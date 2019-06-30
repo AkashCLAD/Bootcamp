@@ -1,7 +1,10 @@
 Date=19/06/19
-Assignment 1 = https://jsfiddle.net/o6va2Lm8/1/
-Assignment 2 = https://jsfiddle.net/h0925aLs/
+Assignment 1 = https://jsfiddle.net/o6va2Lm8/1/     //simple Interest
+Assignment 2 = https://jsfiddle.net/h0925aLs/       //print Fullname using object properties
 
 Date= 20/06/19
-Assignment 1 = https://jsfiddle.net/bouxj6wh/
-Assignment 2 = https://jsfiddle.net/842dgpba/
+Assignment 1 = https://jsfiddle.net/bouxj6wh/       //display month name using switch case
+Assignment 2 = https://jsfiddle.net/842dgpba/       //compound Interest
+
+Date- 26/06/19
+Assignment 1 = https://jsfiddle.net/wzfre9dy/       //array's elements addition with exception handling
