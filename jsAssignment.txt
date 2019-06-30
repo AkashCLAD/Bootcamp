@@ -9,3 +9,9 @@ Assignment 2 = https://jsfiddle.net/842dgpba/       //compound Interest
 Date- 26/06/19
 Assignment 1 = https://jsfiddle.net/wzfre9dy/       //array's elements addition 
 Assignment 2 = https://jsfiddle.net/r3Lqume9/       //take number between 5 and 10 and display it's factorial
+
+Date- 27/06/19
+Assignment 1- https://jsfiddle.net/vg8p4tkf/        //Display day and current time
+Assignment 2- https://jsfiddle.net/7vdj0be2/        //leap year
+Assignment 3- https://jsfiddle.net/4382y095/1/      //generate random number and match it with user's input
+Assignment 4- https://jsfiddle.net/o16czm48/        //calculate days left for christmas
