@@ -1,0 +1,5 @@
+Date- 05/07/2019
+Assignment 1- https://jsfiddle.net/869qopLf/5/    /*Display an alert after 2 seconds using promise*/
+Assignment 2- https://jsfiddle.net/dctmLhbu/4/    /*Bind multiple promise callbacks*/
+Assignment 3- https://jsfiddle.net/oLqfkhdn/3/    /*Show error if result is returning false*/
+Assignment 4- https://jsfiddle.net/azresjgu/      /*if error occurs do multiple tasks*/
